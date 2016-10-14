@@ -13,7 +13,7 @@ A repository based on [this tutorial](https://angular.io/docs/ts/latest/quicksta
 
 `npm install` and then `npm run typings install`.
 
-For more detail, follow [this guide](https://angular.io/docs/ts/latest/quickstart.html).
+For more detail, follow [this guide](https://angular.io/docs/ts/latest/quickstart.html) or if you prefer, use the [real source](https://angular.io/docs/ts/latest/quickstart.html).
 
 ## Also
 
