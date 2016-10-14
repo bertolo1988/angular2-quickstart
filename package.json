@@ -1,6 +1,7 @@
 {
     "name": "angular2-quickstart",
     "version": "1.0.0",
+    "decription": "Ease the process of starting a new front end webapp using Typescript and Angular2",
     "scripts": {
         "start": "tsc && concurrently \"tsc -w\" \"lite-server\" ",
         "lite": "lite-server",
@@ -9,12 +10,16 @@
         "tsc:w": "tsc -w",
         "typings": "typings"
     },
-    "licenses": [
-        {
-            "type": "MIT",
-            "url": "https://github.com/angular/angular.io/blob/master/LICENSE"
-        }
-    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/bertolo1988/angular2-quickstart"
+    },
+    "homepage": "https://github.com/bertolo1988/angular2-quickstart",
+    "author": "bertolo1988 <tiagobertolo@gmail.com> (https://github.com/bertolo1988)",
+    "licenses": [{
+        "type": "MIT",
+        "url": "https://opensource.org/licenses/MIT"
+    }],
     "dependencies": {
         "@angular/common": "~2.1.0",
         "@angular/compiler": "~2.1.0",
